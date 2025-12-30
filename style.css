@@ -1,0 +1,233 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+/* کلیات */
+ul {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+}
+
+
+
+
+.box {
+    width: 270px;
+    height: 500px;
+    border-radius: 20px;
+    padding: 16px;
+    background-color: #679bda;
+
+
+}
+
+
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+}
+
+.container {
+
+    display: flex;
+    justify-content: space-between;
+    width: 1300px;
+}
+
+.yearly {
+    font-size: medium;
+    color: gainsboro;
+    margin-top: 20px;
+
+}
+
+.icon-box {
+    width: 40px;
+    border-radius: 10px;
+
+
+}
+
+.tickicon {
+    width: 30px;
+
+}
+
+.buyicon {
+    width: 30px;
+    height: 30px;
+}
+
+/* باکس1 */
+
+
+
+.header1 {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+
+
+}
+
+.prise1 {
+    text-align: left;
+    font-size: 20px;
+    color: white;
+}
+
+.economic {
+    color: white;
+    font-size: larger;
+    align-items: center;
+
+
+}
+
+
+
+
+.bodybox1 {
+    list-style-type: none;
+    color: white;
+    margin-top: 25px;
+}
+
+
+
+
+
+.enterbox1 {
+    height: 40px;
+    width: 150px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 40%;
+    margin-right: 50px;
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+    align-items: center;
+}
+
+
+
+
+/* باکس دومم */
+
+
+
+
+.header2 {
+    display: flex;
+    justify-content: space-between;
+    height: 60px;
+}
+
+.professional {
+    color: rgb(255, 255, 255);
+}
+
+
+
+.prisebox2 {
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+.prise2 {
+
+    color: white;
+    font-size: large;
+}
+
+.off {
+    color: rgb(255, 255, 255);
+    width: 50px;
+    height: 20px;
+    background-color: rgb(235, 88, 88);
+    border-radius: 10px;
+    text-align: center;
+
+
+}
+
+.prisee {
+    color: white;
+    font-size: small;
+}
+
+
+
+.enterbox2 {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    width: 150px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 16%;
+    margin-right: 50px;
+    align-items: center;
+    padding: 5px;
+}
+
+
+.bodybox2 {
+    list-style-type: none;
+    color: white;
+    margin-top: 8px;
+
+}
+
+
+/* باکس سوم  */
+
+.enterbox3 {
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    width: 150px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 21px;
+    margin-right: 50px;
+    align-items: center;
+    padding: 5px;
+}
+
+.prise3 {
+    text-align: left;
+    font-size: 20px;
+    color: white;
+}
+
+.bodybox3{list-style-type: none;
+    color: white;
+    margin-top: 8px;
+
+}
+
+
+/* باکس چهارمم */
+
+.enterbox4{ display: flex;
+    justify-content: space-between;
+    height: 40px;
+    width: 150px;
+    background-color: white;
+    border-radius: 10px;
+    margin-top: 145px;
+    margin-right: 50px;
+    align-items: center;
+    padding: 5px;
+
+}
